@@ -65,4 +65,15 @@
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
 AllMusic is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://allmusic.com/
+
+**Areas:** Company
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://allmusic.com/)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/allmusic/](https://apis.io/providers/allmusic/).
